@@ -1,0 +1,14 @@
+.container
+{
+    text-align: center;
+}
+h2
+{
+    padding: auto;
+}
+
+.button_enter
+{
+    width: 40%;
+    font-size: 40px !important;
+}
